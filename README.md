@@ -1,2 +1,2 @@
-# Flask-Project-Template
-Docker and Flask
+# Flask Template
+don't forget to initialize flask-migrate!
